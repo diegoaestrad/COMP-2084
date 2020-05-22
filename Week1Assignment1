@@ -1,0 +1,13 @@
+Student name: Diego Alejandro Estrada Beltrán 
+Student number: 200327046 
+https://github.com/diegoaestrad/COMP-2084
+
+1.	Explain Server-side scripting language. Give examples 
+All the scripts that developers create and that involves response in server like the apache side can be classified as “server-side Scripting”, for example when the user complete the login stage the server returns to the app some information with the use of a server side script, another case is when the server request information to a database or any data source the information is return in an specific format that also applies.
+2.	Explain Client-side scripting language. Give examples 
+The client-side scripting involves any answer specified directly in the browser side or the client for example when the user click a button and the browser display an specific popup or notification like JavaScript messages.
+3.	What is ASP.NET and its advantages? 
+ASP.NET is the framework that we use to develop web apps and merge those apps with the use of specific services that .Net allows us to use, additional with the use of ASP.NET we count with the source of many developers that contribute and share code through github, an advantage is that can be used in any platform like windows or mac or also linux
+4.	What is ASP.NET and its disadvantages? 
+
+5.	What is Github? Write the answer in a GitHub readme.md file or upload a document file on GitHub.
