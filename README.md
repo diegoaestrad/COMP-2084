@@ -31,6 +31,6 @@ Table_Product<br />
 
 Table_Orders<br />
 -Id_Order<br />
--Order_User<br />
--Order_Product<br />
+-Id_User<br />
+-Id_Product<br />
 -Product_Quantity<br />
