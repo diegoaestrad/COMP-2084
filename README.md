@@ -13,7 +13,7 @@ b. The project contemplate Polymorphism and Abstraction because all objects are 
 
 Tables Structure:
 
-Table_Users
+Table_Users<br />
 -Id_User<br />
 -User_Login<br />
 -User_FirstName<br />
@@ -21,7 +21,7 @@ Table_Users
 -User_Role<br />
 -User_Password<br />
 
-Table_Product
+Table_Product<br />
 -Id_Product<br />
 -Product_Name<br />
 -Product_Code<br />
@@ -29,7 +29,7 @@ Table_Product
 -Product_Stock<br />
 
 
-Table_Orders
+Table_Orders<br />
 -Id_Order<br />
 -Order_User<br />
 -Order_Product<br />
